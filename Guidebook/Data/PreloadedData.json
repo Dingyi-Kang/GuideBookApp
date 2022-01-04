@@ -1,0 +1,92 @@
+[
+{
+  "name":"Colosseum",
+  "imagename":"colosseum",
+  "address":"Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+  "summary":"The Colosseum or Coliseum, also known as the Flavian Amphitheatre, is an oval amphitheatre in the centre of the city of Rome, Italy. Built of travertine, tuff, and brick-faced concrete, it is the largest amphitheatre ever built.",
+  "lat":41.890088,
+  "long":12.494118
+},
+
+{
+  "name":"St. Peter's Basilica",
+  "imagename":"basilica",
+  "address":"Piazza San Pietro, 00120 Citta del Vaticano, Vatican City",
+  "summary":"The Papal Basilica of St. Peter in the Vatican, or simply St. Peter's Basilica, is an Italian Renaissance church in Vatican City, the papal enclave within the city of Rome.",
+  "lat":41.902218,
+  "long":12.456796
+},
+
+{
+  "name":"Trevi Fountain",
+  "imagename":"trevi_fountain",
+  "address":"Piazza di Trevi, 00187 Roma RM, Italy",
+  "summary":"The Trevi Fountain is a fountain in the Trevi district in Rome, Italy, designed by Italian architect Nicola Salvi and completed by Giuseppe Pannini.",
+  "lat":41.900767,
+  "long":12.483347
+},
+
+{
+  "name":"Pantheon",
+  "imagename":"pantheon",
+  "address":"Piazza della Rotonda, 00186 Roma RM, Italy",
+  "summary":"The Pantheon is a former Roman temple, now a church, in Rome, Italy, on the site of an earlier temple commissioned by Marcus Agrippa during the reign of Augustus.",
+  "lat":41.899184,
+  "long":12.476892
+},
+
+{
+  "name":"Sistine Chapel",
+  "imagename":"sistine_chapel",
+  "address":"00120 Vatican City",
+  "summary":"The Sistine Chapel is a chapel in the Apostolic Palace, the official residence of the Pope, in Vatican City. Originally known as the Cappella Magna, the chapel takes its name from Pope Sixtus IV, who restored it between 1477 and 1480.",
+  "lat":41.902916,
+  "long":12.453389
+},
+
+{
+  "name":"Spanish Steps",
+  "imagename":"spanish_steps",
+  "address":"Piazza di Spagna, 00187 Roma RM, Italy",
+  "summary":"The Spanish Steps are a set of steps in Rome, Italy, climbing a steep slope between the Piazza di Spagna at the base and Piazza Trinità dei Monti, dominated by the Trinità dei Monti church at the top.",
+  "lat":41.905698,
+  "long":12.482327
+},
+
+{
+  "name":"St. Peter's Square",
+  "imagename":"stpeters_square",
+  "address":"Piazza San Pietro, 00120 Citta del Vaticano, Vatican City",
+  "summary":"St. Peter's Square is a large plaza located directly in front of St. Peter's Basilica in the Vatican City, the papal enclave inside Rome, directly west of the neighbourhood or rione of Borgo.",
+  "lat":41.902218,
+  "long":12.456796
+},
+
+{
+  "name":"Roman Forum",
+  "imagename":"roman_forum",
+  "address":"Via della Salara Vecchia, 5/6, 00186 Roma RM, Italy",
+  "summary":"The Roman Forum, also known by its Latin name Forum Romanum, is a rectangular forum surrounded by the ruins of several important ancient government buildings at the center of the city of Rome.",
+  "lat":41.892483,
+  "long":12.487009
+},
+
+{
+  "name":"Vatican Museums",
+  "imagename":"vatican_museums",
+  "address":"Viale Vaticano, 00165 Roma RM, Italy",
+  "summary":"The Vatican Museums are Christian and art museums located within the city boundaries of the Vatican City.",
+  "lat":41.904256,
+  "long":12.448685
+},
+
+{
+  "name":"Piazza Navona",
+  "imagename":"piazza_navona",
+  "address":"Piazza Navona, 00186 Roma RM, Italy",
+  "summary":"Piazza Navona is a square in Rome, Italy. It is built on the site of the Stadium of Domitian, built in the 1st century AD, and follows the form of the open space of the stadium.",
+  "lat":41.899133,
+  "long":12.473292
+}
+
+]

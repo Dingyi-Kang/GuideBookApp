@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8BCDB47D-EFF9-4613-A357-704EA65B0474"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FAEEC01-4E79-4411-A426-31AE172ECFAE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Guidebook/ViewControllers/AddNoteViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "5FAEEC01-4E79-4411-A426-31AE172ECFAE - 57aa3a03d6cb844e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Guidebook.AddNoteViewController.saveNoteTapped(Any) -&gt; ()"
+                  moduleName = "Guidebook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osuappcenter/Desktop/Guidebook/Guidebook/ViewControllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "571">
+               </Location>
+               <Location
+                  uuid = "5FAEEC01-4E79-4411-A426-31AE172ECFAE - 57aa3a03d6cb844e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Guidebook.AddNoteViewController.saveNoteTapped(Any) -&gt; ()"
+                  moduleName = "Guidebook"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/osuappcenter/Desktop/Guidebook/Guidebook/ViewControllers/AddNoteViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "1084">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
